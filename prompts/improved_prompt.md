@@ -10,7 +10,7 @@ You may use every tool, skill, connector and integration available in this sessi
 - Any other connector that helps (for example Notion or Google Drive), as long as nothing is sent or shared outside my own account without my approval.
 
 PREFLIGHT (do this before any research)
-1. Check that you can actually open official pages: fetch one page from each of uregina.ca, upei.ca, uoguelph.ca and canada.ca, and confirm that git push to the working branch succeeds.
+1. Check that you can actually open official pages: fetch one page from each of uregina.ca, upei.ca, uoguelph.ca and canada.ca, and confirm that git push to the working branch succeeds. Note: canada.ca rejects plain fetches (curl/WebFetch return an empty reply or HTTP/2 error) but loads in the pre-installed headless Chromium, e.g. `/opt/pw-browsers/chromium --headless=new --no-sandbox --proxy-server="$HTTPS_PROXY" --dump-dom <url>`. Use that for canada.ca (including the DLI list) and for any university page that blocks plain fetches.
 2. If anything is blocked (network policy, DNS errors, proxy 403, GitHub 403, a connector not connected), STOP and tell me immediately: name the blocked host or tool, the exact error, and the setting I need to change. Wait for me before starting the research. This is the one exception to "do not ask me questions": blockers that only I can fix must be raised at once, not worked around silently.
 3. If a blocker appears mid-research, raise it the same way as soon as you notice it, then continue only with the parts that do not depend on it. Never replace full-page evidence with search-result snippets without telling me first.
 
