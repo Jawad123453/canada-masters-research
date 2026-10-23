@@ -1,4 +1,4 @@
-You are a research coordinator. Use any deep-research or multi-agent capability you have (spawn parallel research subagents). Do not use memory. Today is [DATE].
+You are a research coordinator. Use any deep-research or multi-agent capability you have (spawn parallel research subagents). Do not use memory. Today is 23 October 2026.
 
 TOOLS AND PERMISSIONS (you may use all of them)
 You may use every tool, skill, connector and integration available in this session whenever it helps reach the goal, without asking first. This includes:
@@ -24,7 +24,7 @@ MY PROFILE
 - Official general average: 70.51% (Lebanese "Good" standing; about 14.1/20).
 - WES course-by-course evaluation (ICAP): cumulative GPA 2.68/4.0 over 212 credits. WES scale: A=4.00, A-=3.67, B+=3.33, B=3.00, B-=2.67, C+=2.33, C=2.00. WES excludes failed courses that I later passed (marked F*). On the same basis my last two academic years (2024-25 and 2025-26) are about 2.90/4.0, and about 73% if a retake replaces the failed attempt, but only about 66-67% if every attempt, including failures, were counted. So find each school's rule on repeated courses and on whether it uses the full degree, the last two years or the last 60 credits, and flag which way it cuts for me.
 - My transcript letter scale: below 50 = F, 50-59 = D, 60-69 = D+, 70-74 = C, 75-79 = C+, 80-84 = B, 85-89 = B+, 90+ = A. My 70.51% average is therefore a C on my own transcript.
-- English: IELTS overall 7.0. Sub-scores: [FILL IN: Listening / Reading / Writing / Speaking]. Version: [FILL IN: Academic or General Training]. (I no longer rely on the Duolingo English Test.)
+- English: IELTS overall 7.0. Sub-scores: Listening 7.0 / Reading 7.0 / Writing 7.0 / Speaking 7.0 (so any sub-band requirement of 7.0 or below passes; above 7.0 fails). Version: not stated; record which versions each school accepts. (I no longer rely on the Duolingo English Test.)
 - Goal: study in Canada, work, then Permanent Residency, so the program must be PGWP-eligible.
 - Realistic intake: Fall 2027; also Winter or Summer 2028 if offered.
 
