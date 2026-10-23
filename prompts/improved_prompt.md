@@ -9,6 +9,9 @@ You may use every tool, skill, connector and integration available in this sessi
 - Artifacts or Docs: you may publish the final report as a private page so I can read and share it.
 - Any other connector that helps (for example Notion or Google Drive), as long as nothing is sent or shared outside my own account without my approval.
 
+PRIOR WORK
+The previous round's notes and report are in this repository on branch `claude/happy-keller-6e6s7h` (folders `research_notes/Cheapest Canadian masters shortlist/` and `reports/`). Fetch that branch and read them first: they hold the exact URLs, fee lines and quotes already found. Re-verify them from the full official pages rather than re-searching from scratch.
+
 PREFLIGHT (do this before any research)
 1. Check that you can actually open official pages: fetch one page from each of uregina.ca, upei.ca, uoguelph.ca and canada.ca, and confirm that git push to the working branch succeeds. Note: canada.ca rejects plain fetches (curl/WebFetch return an empty reply or HTTP/2 error) but loads in the pre-installed headless Chromium, e.g. `/opt/pw-browsers/chromium --headless=new --no-sandbox --proxy-server="$HTTPS_PROXY" --dump-dom <url>`. Use that for canada.ca (including the DLI list) and for any university page that blocks plain fetches.
 2. If anything is blocked (network policy, DNS errors, proxy 403, GitHub 403, a connector not connected), STOP and tell me immediately: name the blocked host or tool, the exact error, and the setting I need to change. Wait for me before starting the research. This is the one exception to "do not ask me questions": blockers that only I can fix must be raised at once, not worked around silently.
